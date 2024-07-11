@@ -32,4 +32,4 @@
 
 <br clear="both">
 <hr clear="both">
-<img src="https://github.com/Dileep01712/Dileep01712/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dileep01712/Dileep01712/output/snake.svg" alt="Snake animation" />
