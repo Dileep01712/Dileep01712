@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dileep Yadav and I'm a TY BScIT student from Mumbai, India.</h2>
+<h2 align="left">Hi 👋! My name is Dileep Yadav and I'm a BSc IT graduate from Mumbai, India.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dileep01712&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
